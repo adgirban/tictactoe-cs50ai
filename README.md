@@ -1,8 +1,8 @@
 # tictactoe-cs50ai
 
 ## Usage
-pip3 install -r requirements.txt
-python runner.py
+- pip3 install -r requirements.txt
+- python runner.py
 
 Choose to play as X or O
 
